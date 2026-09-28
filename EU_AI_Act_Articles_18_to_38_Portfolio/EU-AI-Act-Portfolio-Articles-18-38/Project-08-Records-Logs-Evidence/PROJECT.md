@@ -1,4 +1,4 @@
-# Project 08: AI Records, Logs and Regulatory Evidence Management
+# AI Records, Logs and Regulatory Evidence Management
 
 > **Portfolio disclaimer:** This project uses fictional organizations, systems, events, findings, and evidence. It demonstrates governance methodology only. It is not legal advice, accreditation, certification, or a formal conformity assessment. Confirm requirements against the current official EU AI Act text, applicable annexes, harmonised standards, guidance, contracts, and competent legal advice.
 
